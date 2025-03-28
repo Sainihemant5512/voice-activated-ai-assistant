@@ -1,0 +1,7 @@
+speechrecognition
+pyttsx3
+requests
+beautifulsoup4
+tk
+webbrowser
+pyaudio
